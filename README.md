@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://github.com/GuilhermeAcetoze">
-    <img src="https://img.shields.io/badge/github.com/GuilhermeAcetoze?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-GuilhermeAcetoze-000?style=for-the-badge&logo=github" />
   </a>
 </p>
 
