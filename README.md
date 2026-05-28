@@ -31,7 +31,6 @@ I apply Java knowledge daily to improve my skills. In addition, I study new Java
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <p align="left">
   <img height="170"
