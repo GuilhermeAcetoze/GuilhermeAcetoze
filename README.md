@@ -22,7 +22,7 @@ I apply Java knowledge daily to improve my skills. In addition, I study new Java
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL Server](https://shields.io)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### Tools
 
