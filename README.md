@@ -1,6 +1,6 @@
 # Hi 👋, I'm Guilherme Acetoze
 
-🚀 **Trainee/Junior Software Engineer | Java Developer**  
+🚀 **Computer Science Student | Java Developer**  
 🇧🇷 Brazil
 
 ---
